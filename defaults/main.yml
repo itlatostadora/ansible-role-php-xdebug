@@ -18,3 +18,8 @@ php_xdebug_idekey: sublime.xdebug
 
 php_xdebug_max_nesting_level: 256
 
+php_xdebug_profiler_enable_trigger: false
+php_xdebug_profiler_output_dir: "/tmp"
+php_xdebug_profiler_output_name: "cachegrind.out.%p"
+
+
